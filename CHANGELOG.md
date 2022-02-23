@@ -24,6 +24,7 @@ All notable, unreleased changes to this project will be documented in this file.
 - Fix access to own resources by App - #9425 by @korycins
 - Introduce custom prices - #9393 by @IKarbowiak
   - Add `HANDLE_CHECKOUTS` permission (only for apps)
+- Add an alternative API for fetching metadata - #9231 by @patrys
 
 
 # 3.1.7
